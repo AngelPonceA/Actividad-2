@@ -1,0 +1,48 @@
+.fondo_letra{
+    font-family: sans-serif;
+    background-color: hsl(0, 0%, 0%);
+}
+
+.cuerpo_centrado h1, h2, h3, h4{
+    text-align: center;    
+    padding: 5px;
+    border-radius: 2rem;
+    margin: 5px;
+}
+
+.description_medio{
+    font-size: 20px;
+    text-align: center;
+    margin: 25px auto;
+}
+
+.ul li{
+    list-style: none;
+    text-align: left;
+    font-size: 20px;
+}
+
+.imagenes img{
+    width: 150px;
+    padding: 10px;
+    margin: auto 10px;
+}
+
+.imagenes_fichas img{
+    width: 300px;
+    padding: auto;
+    margin: 10px;
+
+}
+
+.direcciones a{
+    color: rgb(3, 3, 255);
+    padding-right: 15px;
+    margin: auto 0px;
+    text-align: left;
+}
+
+a:hover{
+    cursor: pointer;
+    color: rgb(7, 94, 255);
+}
